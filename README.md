@@ -45,7 +45,9 @@ print(X)
 
 ## Output:
 ![lu decomposition]()
-![270133474-b8081195-485c-45f4-8d8c-330cf91fc583](https://github.com/user-attachments/assets/b18e7fba-dbbb-4503-9629-f4206b111c9e)
+![image](https://github.com/user-attachments/assets/472ddd53-a6fc-417b-96b0-48b3b58823e3)
+
+
 
 
 
